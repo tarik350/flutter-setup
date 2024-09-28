@@ -1,4 +1,4 @@
-# loto app
+# flutter starter setup
 
 A new Flutter project.
 
